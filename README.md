@@ -1,0 +1,2 @@
+# coreboot_elite_x2
+coreboot_elite_x2_1012_g1
